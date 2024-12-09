@@ -69,7 +69,7 @@ pip install pandas numpy matplotlib seaborn wordcloud scikit-learn nltk
 1. Clone the repository:
    ```bash
    git clone git@github.com:Darylwanji/Bias-Breaker--An-NLP-Journey-into-Sexism-Detection.git
-   cd archive
+   cd Notebooks
    ```
 
 2. Open the Jupyter Notebook:
